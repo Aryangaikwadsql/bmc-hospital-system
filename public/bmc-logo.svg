@@ -1,0 +1,9 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="60" fill="#0070F3" />
+  <path d="M30 40H90V80H30V40Z" fill="white" />
+  <path d="M45 50H75V70H45V50Z" fill="#0070F3" />
+  <path d="M50 55H70V65H50V55Z" fill="white" />
+  <path d="M30 30H40V90H30V30Z" fill="#0070F3" />
+  <path d="M80 30H90V90H80V30Z" fill="#0070F3" />
+</svg>
+
